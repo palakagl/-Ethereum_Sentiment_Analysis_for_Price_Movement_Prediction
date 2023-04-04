@@ -28,19 +28,19 @@ A leading indicator looks forward to future outcomes and events, hence, if a lea
 
 ### Approach: 
 
-##### The Machine Learning 
+##### The Machine Learning: 
 
-Price Analysis
+        Price Analysis
 
-Sentiment Analysis
+        Sentiment Analysis
 
-Tweet sentiments indicator calculation 
+        Tweet sentiments indicator calculation 
 
-##### Investment Strategy
+##### Investment Strategy:
 
-Price Momentum strategy
+        Price Momentum strategy
 
-Contrarian strategy
+        Contrarian strategy
 
 ### Factors that could  be used to fetch meaningful tweets from Twitter:
 
